@@ -1,6 +1,6 @@
 <h1 align="center">
   <img width="25px" alt="Hello" src="https://camo.githubusercontent.com/2ec030bc751ce444be25f6ed5aa026d2a0950d5cc62603faa27f4ec72f1e7ac3/68747470733a2f2f782e747739332e66756e2f696d616765732f68692e676966">
-  Hello, World! I'm Pham Tan Thanh 🙆
+  Hello! I'm Pham Tan Thanh 🙆
 </h1>
 
 <h3 align="center">
@@ -12,7 +12,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/your-link)
   [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your.email@example.com)
 
-  <img width="300px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Workspace">
 </div>
 
 ---
